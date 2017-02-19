@@ -1,3 +1,11 @@
+https://github.com/Microsoft/vscode-chrome-debug
+
+Needed to run chrome via: 
+
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222
+
+========
+
 # DebugNg2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
